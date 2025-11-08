@@ -10,7 +10,6 @@ Key Features
 ⦁	Lightweight, pure Python (no heavy dependencies)
 
 Getting Started
-
 Prerequisites
 ⦁	Python 3.x installed
 ⦁	An API key from AbuseIPDB (free tier available)
