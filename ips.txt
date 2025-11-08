@@ -1,0 +1,17 @@
+Some random data...
+IP: 192.168.1.1 should be blocked.
+Check this: abc123.1.2.3.4xyz — not a valid IP.
+Valid IP? --> 8.8.8.8!
+Random text: this-is-not-an-ip 999.999.999.999
+Real one: 172.16.0.5. Another real one? 10.0.0.1
+junk: blah 256.256.256.256 no-ip-here
+Log: Failed login from 185.199.108.153
+No match here either.
+See also: [34.140.11.100], should be checked.
+Extra: 127.0.0.1 (localhost)
+Fake: 123.456.789.000 but 1.1.1.1 is okay.
+192.168.1.10,   185.220.100.255,garbageData,  10.0.0.2,   89.248.165.97, foo_bar, 172.20.10.5,  67.43.156.15,   127.0.0.1,   
+23.129.64.55, somethingWrongHere,  8.8.8.8,   169.254.0.5,   185.100.87.202 ,invalid_entry,  89.187.181.113                     
+
+
+8.8.8.8,169.254.0.5,185.100.87.202,192.168.0.0
