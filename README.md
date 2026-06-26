@@ -15,3 +15,6 @@ Prerequisites
 ⦁	An API key from AbuseIPDB (free tier available)
 ⦁	Internet connection for API queries
 ⦁	File ips.txt (optional) – list of IP addresses, one per line
+- 
+---
+- Copyright © 2026 Laiba Asad (github.com/Laiba-Asad)
